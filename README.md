@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou Israel Soares 👋
 
-<!--
-**IsraelSoares-25/IsraelSoares-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Tecnologia e Desenvolvimento de Software.
 
-Here are some ideas to get you started:
+## 🚀 Atualmente aprendendo
+- ☕ Java
+- 🐍 Python
+- 🌱 Estruturas de Dados
+- 🔧 Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Objetivos
+- Desenvolver projetos práticos
+- Aprender boas práticas de programação
+- Evoluir como desenvolvedor Backend
+
+## 🛠️ Tecnologias
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## 📈 Estatísticas GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
+
+## 📫 Contato
+- LinkedIn: seu-linkedin
+- Email: seu-email
