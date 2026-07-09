@@ -37,7 +37,7 @@
 ## 🔥 Sequência de contribuições
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=IsraelSoares-25&theme=tokyonight" />
 </p>
 
 ---
@@ -48,8 +48,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=IsraelSoares-25&theme=tokyonight&row=2&column=4" />
 </p>
 
-Os troféus são gerados automaticamente pelo projeto :contentReference[oaicite:0]{index=0}. :contentReference[oaicite:1]{index=1}
-
 ---
 
 ## 📈 Gráfico de Contribuições
@@ -57,9 +55,6 @@ Os troféus são gerados automaticamente pelo projeto :contentReference[oaicite:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsraelSoares-25&theme=tokyo-night" />
 </p>
-
----
-
 
 ---
 
